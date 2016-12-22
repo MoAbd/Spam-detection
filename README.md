@@ -14,7 +14,9 @@ The data provided is from a kaggle [competition] (https://inclass.kaggle.com/c/a
 - `TR.tar.gz` FILES contains 2500 mails both in Ham(1721) labelled as 1 and Spam(779) labelled as 0
 - `spam-mail.tr.label` is the associated training labels.
 - `ExtractContent.py`  extract the subject and body of the email.
+
 > In a python compatible environment, 
+
 > 1, invoke the script by command 
 
 > ./ExtractContent.py
