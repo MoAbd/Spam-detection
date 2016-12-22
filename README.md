@@ -1,5 +1,5 @@
 # Spam-detection
-Email Spam-detection is an ANN app with TensorFlow.  
+Implementation of  ANN for email spam-detection using TensorFlow  
 The idea is simple - given an email you’ve never seen before, determine whether or not that email is Spam or not.
 
 It is simple ,but very efficient as I reached 99.6% accuracy .
