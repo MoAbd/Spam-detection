@@ -11,9 +11,9 @@ It is simple ,but very efficient as I reached 99.6% accuracy .
 
 The data provided is from a kaggle [competition] (https://inclass.kaggle.com/c/adcg-ss14-challenge-02-spam-mails-detection) 
 
-1. TR.tar.gz FILES contains 2500 mails both in Ham(1721) labelled as 1 and Spam(779) labelled as 0
-2. spam-mail.tr.label is the associated training labels.
-3. ExtractContent.py  extract the subject and body of the email.
+- TR.tar.gz FILES contains 2500 mails both in Ham(1721) labelled as 1 and Spam(779) labelled as 0
+- spam-mail.tr.label is the associated training labels.
+- ExtractContent.py  extract the subject and body of the email.
 > In a python compatible environment, 
 > 1, invoke the script by command 
 
@@ -30,10 +30,11 @@ The data provided is from a kaggle [competition] (https://inclass.kaggle.com/c/a
   C:\EMAILPro\CSDMC2010_SPAM\TEST_NEW
     
 > 4, we are done.
-4. email_input.py  vectorize the emails text,and outputs  trainX.csv, trainY.csv, testX.csv, and testY.csv 
-5. data.tar.gz contains trainX.csv, trainY.csv, testX.csv, and testY.csv
-6. BagOfWords.p contains all unique words from the data to use it later 
-7. Spam detection.ipynb Ipython notebook that train the model and call emails from ur Gmails to classify
+
+- email_input.py  vectorize the emails text,and outputs  trainX.csv, trainY.csv, testX.csv, and testY.csv 
+- data.tar.gz contains trainX.csv, trainY.csv, testX.csv, and testY.csv
+- BagOfWords.p contains all unique words from the data to use it later 
+- Spam detection.ipynb Ipython notebook that train the model and call emails from ur Gmails to classify
 
 #### The email format description:
  
