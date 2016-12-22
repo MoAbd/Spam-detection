@@ -42,6 +42,7 @@ The data provided is from a kaggle [competition] (https://inclass.kaggle.com/c/a
 standard of email, i.e., MIME (Multipurpose Internet Mail Extensions) can be
 find in RFC2045-2049.*
 
-
+#### NOTE:
+*In the notebook U will find how the model works , and how to authenticate ur Gmail*
 
 
