@@ -1,12 +1,13 @@
 # Spam-detection
 Email Spam-detection is an ANN app with TensorFlow.  
 The idea is simple - given an email you’ve never seen before, determine whether or not that email is Spam or not
-It`s simple ,but very efficient as I reached 99.6% accuracy .
+It is simple ,but very efficient as I reached 99.6% accuracy .
 **The code is test on python 2.7.11 and should work on python 2.x**
 -------------------------------------------------------------------------------------------------------------------------
 ## Files description:
 
 The data provided is from a kaggle [competition] (https://inclass.kaggle.com/c/adcg-ss14-challenge-02-spam-mails-detection) 
+
 1. TR.tar.gz FILES contains 2500 mails both in Ham(1721) labelled as 1 and Spam(779) labelled as 0
 2. spam-mail.tr.label is the associated training labels.
 3. ExtractContent.py  extract the subject and body of the email.
