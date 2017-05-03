@@ -9,7 +9,7 @@ It is simple ,but very efficient as I reached 99.6% accuracy .
 -------------------------------------------------------------------------------------------------------------------------
 ## Files description:
 
-The data provided is from a kaggle [competition] (https://inclass.kaggle.com/c/adcg-ss14-challenge-02-spam-mails-detection) 
+The data provided is from a kaggle [competition](https://inclass.kaggle.com/c/adcg-ss14-challenge-02-spam-mails-detection) 
 
 - `TR.tar.gz` FILES contains 2500 mails both in Ham(1721) labelled as 1 and Spam(779) labelled as 0
 - `spam-mail.tr.label` is the associated training labels.
